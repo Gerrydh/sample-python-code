@@ -4,9 +4,9 @@ def sumall(upto):
         sumupto = sumupto + i
     return sumupto
 
-print("he sum of the values from 1 to 50 inclusive is: ", sumall(50))  
-print("he sum of the values from 1 to 5 inclusive is: ", sumall(5)) 
-print("he sum of the values from 1 to 10 inclusive is: ", sumall(10)) 
+print("The sum of the values from 1 to 50 inclusive is: ", sumall(50))  
+print("The sum of the values from 1 to 5 inclusive is: ", sumall(5)) 
+print("The sum of the values from 1 to 10 inclusive is: ", sumall(10)) 
 
 # above function replaces the below 2
 sum5 = 0
